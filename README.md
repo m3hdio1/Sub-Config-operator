@@ -17,23 +17,23 @@
 
 # آموزش استفاده و اتصال :
 
-اندروید: 
-# V2rayng: 
+# اندروید: 
+ V2rayng: 
 
 https://t.me/fnet00/85
 
-آیفون: 
+# آیفون: 
 
-# Foxray: 
+ Foxray: 
 
 https://t.me/fnet00/296?single
 
 
 
 
-دونیت ( حمایت مالی ):
+# دونیت ( حمایت مالی ):
 
-پرداخت ایرانی: 
+# پرداخت ایرانی: 
 
 IDPAY: 
 https://idpay.ir/mr-amir-00
@@ -44,7 +44,7 @@ https://www.coffeete.ir/Amir_m_88
 CoffeeBede: 
 https://www.coffeebede.com/mr_amirr_m
 
-پرداخت با ارز: 
+# پرداخت با ارز: 
 
 BTC: 
 bc1qzyn3snspu4neh8et8yd8rf9se8vmrnfua5a04q
