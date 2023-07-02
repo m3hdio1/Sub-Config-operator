@@ -1,0 +1,3 @@
+vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443?security=reality&encryption=none&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=cb590e6fe1b987bc#Telegram+%7C+%40FNET00%E2%9A%A1
+
+vless://9c5350e4-7eb5-49a7-8db5-7519dc0bd995@194.87.31.249:8443?security=reality&encryption=none&pbk=bE9rSX4zIWnF3lDy-DvyjD60dA6CJZJ15LR_njSuAQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=8dfbedee1d564c58#Telegram+%7C+%40FNET00%E2%9A%A1
