@@ -1,4 +1,4 @@
-:)):
+
 vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
 vless://4cd29e96-3732-4be9-bb5a-78760b188e68@5.75.208.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=random&security=reality&pbk=Rll-qZ8TUxeX5n2yAx7azxgzmU7UQK4QwNSoABgFtkk&sid=8d97abb4e2e3e08c#Telegram%20%7C%20%40FNET00%E2%9A%A1
