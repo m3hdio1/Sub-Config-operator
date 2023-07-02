@@ -1,79 +1,20 @@
-Mkh 1
+:)):
+vless://41fc5ded-4034-48b7-9b52-d2197cf8bab4@89.23.108.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=Ae0Goc3z62ExXLIekZe5CbOeVvq12slHkFpqAYrH6BQ&sid=cb590e6fe1b987bc#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443?security=reality&encryption=none&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2a8b4bae#1+MKH+%7C+T.me%2FFNET00
+vless://4cd29e96-3732-4be9-bb5a-78760b188e68@5.75.208.218:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=random&security=reality&pbk=Rll-qZ8TUxeX5n2yAx7azxgzmU7UQK4QwNSoABgFtkk&sid=8d97abb4e2e3e08c#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-Mkh 2
+vless://242fb74c-fc92-4244-8d17-096796f11287@161.35.213.109:443/?type=grpc&encryption=none&flow=&sni=zula.ir&fp=chrome&security=reality&pbk=42tF9_9ChLmXonmKMxmoC-4mwLfEE1lkJTInT2uzUh8&sid=fac6#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443?security=reality&encryption=none&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2a8b4bae#2+MKH+%7C+T.me%2FFNET00
+vless://f4262f7f-e498-48b3-9ecd-214899aff2f2@128.140.60.188:8443/?type=grpc&encryption=none&flow=&serviceName=%40Helix_Servers-%40Helix_Servers-%40Helix_Servers-%40Helix_Servers-%40Helix_Servers-&sni=cdn.accuweather.com&fp=firefox&security=reality&pbk=CKtVkswr1n5VG0ikDlxpNwrxbEMMhHVIZnCixRdSBzM&sid=f142c484#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-Mkh 3
+vless://ItsDgNmt@84.54.51.96:443/?type=grpc&encryption=none&flow=&sni=www.zula.ir&fp=chrome&security=reality&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&sid=#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-trojan://telegram-id-privatevpns@3.9.165.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#3+MKH++%7C+T.me%2FFNET00
+vless://Baray-kharid-pv-jalalccc@38.180.15.139:56098/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=firefox&security=reality&pbk=mj1A1425GqEXJElaqp8r_krcvPdQVRk_lrAPIdxFqX4&sid=b7c62fb7#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-Mkh 4
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@208.85.18.151:443/?type=http&encryption=none&flow=&sni=eset.com&fp=firefox&security=reality&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#4+MKH+%7C+T.me%2FFNET00
+vless://bfc16511-621f-4b7b-b784-755857c00dfa@176.117.59.33:443/?type=grpc&encryption=none&flow=&sni=www.speedtest.net&fp=firefox&security=reality&pbk=98utSPZkD3TmZNlGE9ClVd2MdXDwZj2BKASYXMAxR1w&sid=f14694e4#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-Mkh 5
+vless://d20f2ead-cb8f-4c0c-e2e7-a0cb47a5524d@217.160.36.169:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=random&security=reality&pbk=dGj0E4pDCr6HtIMiTbX_Agp1vVLSmqOlRo36GONIwls&sid=3656b98a#Telegram%20%7C%20%40FNET00%E2%9A%A1
 
-vless://539f4e23-0caf-4204-a1a5-a5217bbaef1c@135.181.35.207:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=chrome&spx=%2Fgwlzazm%2Fkwgjb&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#5+MKH+%7C+T.me%2FFNET00
-
-Mkh 6
-
-vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#6+MKH+%7C+T.me%2FFNET00
-
-Mkh 7
-
-vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@208.85.18.151:443?path=%2F&security=reality&encryption=none&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&fp=firefox&type=http&sni=eset.com&sid=552e548e32bd#7+MKH+%7C+T.me%2FFNET00
-
-Mkh 8
-
-vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#8+MKH+%7C+T.me%2FFNET00
-
-Mkh 9
-
-vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#9+MKH+%7C+T.me%2FFNET00
-
-Mkh 10
-
-vless://d91b21f8-56ea-4ca8-97c2-2c6419a94dad@194.87.31.249:443?security=reality&encryption=none&pbk=Fd7z7ezRnAHM-o28IDhi5Ksl6pcRAM1F1FZiQ3GbLzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=810ac00614aac13e#10+MKH+%7C+T.me%2FFNET00
-
-Mkh 11
-
-vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#11+MKH+%7C+T.me%2FFNET00
-
-Mkh 12
-
-vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@208.85.18.151:443?path=%2F&security=reality&encryption=none&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&fp=firefox&type=http&sni=eset.com&sid=552e548e32bd#12+MKH+%7C+T.me%2FFNET00
-
-Mkh 13
-
-vless://d91b21f8-56ea-4ca8-97c2-2c6419a94dad@194.87.31.249:443?security=reality&encryption=none&pbk=Fd7z7ezRnAHM-o28IDhi5Ksl6pcRAM1F1FZiQ3GbLzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=810ac00614aac13e#13+MKH+%7C+T.me%2FFNET00
-
-Mkh 14
-
-vmess://eyJhZGQiOiIxODguMTIxLjExMi40NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibW9pLmlyIiwiaWQiOiIyZGIxODRiNC0yZTE5LTQwODQtYTAwZS1jYTQyMmMyMDYzOTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NzM5NSIsInBzIjoiMTQgTUtIIHwgVC5tZS9GTkVUMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ99h
-
-Mkh 15
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.176.73:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#15+MKH+%7C+T.me%2FFNET00
-
-Mkh 16
-
-vless://fd4ddddb-d4f5-4dfc-b291-39447006018f@goinlagvpn13.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=germany2.lagvpn13.fun#16+MKH+%7C+T.me%2FFNET00
-
-Mkh 17
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.186.244:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#17+MKH+%7C+T.me%2FFNET00
-
-Mkh 18
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker.iraniancp.click&type=ws&sni=iraniancp.click#18+MKH+%7C+T.me%2FFNET00
-
-Mkh 19
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.49.21:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#19+MKH+%7C+T.me%2FFNET00
-
-Mkh 20
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.197.171.128:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#20+MKH+%7C+T.me%2FFNET00
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&sid=2a8b4bae#Telegram%20%7C%20%40FNET00%E2%9A%A1
