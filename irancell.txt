@@ -1,0 +1,87 @@
+Irancell 1
+
+vmess://eyJhZGQiOiI0Ni4xMDEuMTU3LjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhMDk1OGZmOS1kODBlLTQ3MGMtYmU5Mi0zZjI3ZGRjMGYxYTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiIxIElyYW5jZWxsIHwgVC5tZS9GTkVUMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+Irancell 2
+
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443?security=reality&encryption=none&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2a8b4bae#2+Irancell+%7C+T.me%2FFNET00
+
+Irancell 3
+
+vless://3cdbbb10-e586-4879-c973-3438085baf2c@49.13.0.193:443?security=reality&encryption=none&pbk=-rvbuVmhebrqWytirvFJz0ukq_kJjGPxIK9KrvaKkGQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=2a8b4bae#3+Irancell+%7C+T.me%2FFNET00
+
+Irancell 4
+
+vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#4+Irancell+%7C+T.me%2FFNET00
+
+Irancell 5
+
+vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F%40VPNPROXY66&type=tcp&sni=www.speedtest.net&sid=ce#5+Irancell+%7C+T.me%2FFNET00
+
+Irancell 6
+
+vless://539f4e23-0caf-4204-a1a5-a5217bbaef1c@135.181.35.207:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=chrome&spx=%2Fgwlzazm%2Fkwgjb&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=6bb85179e30d4fc2#6+Irancell+%7C+T.me%2FFNET00
+
+Irancell 7
+
+vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#7+Irancell+%7C+T.me%2FFNET00
+
+Irancell 8
+
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@208.85.18.151:443?path=%2F&security=reality&encryption=none&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&fp=firefox&type=http&sni=eset.com&sid=552e548e32bd#8+Irancell+%7C+T.me%2FFNET00
+
+Irancell 9
+
+vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#9+Irancell+%7C+T.me%2FFNET00
+
+Irancell 10
+
+vless://3aeea1d3-0b4f-4834-a6b3-6870ea1c3da9@ya.connectme.uno:443?security=reality&encryption=none&pbk=5g4Qr3OVHuvOBxbzrEjTQ9t1T_55a6Ek2nyatbZTQU0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c52a84236e13d9ba#10+Irancell+%7C+T.me%2FFNET00
+
+Irancell 11
+
+vless://TheHotVPN@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#11+Irancell+%7C+T.me%2FFNET00
+
+Irancell 12
+
+vless://d91b21f8-56ea-4ca8-97c2-2c6419a94dad@194.87.31.249:443?security=reality&encryption=none&pbk=Fd7z7ezRnAHM-o28IDhi5Ksl6pcRAM1F1FZiQ3GbLzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=810ac00614aac13e#12+Irancell+%7C+T.me%2FFNET00
+
+Irancell 13
+
+vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@srv18.kiava.fun:443?security=reality&encryption=none&pbk=Oznxf_hkMzpL2bS8-cMT9cuiNWBCyZhzKzUDMEkP62o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eset.com#13+Irancell+%7C+T.me%2FFNET00
+
+Irancell 14
+
+vless://d91b21f8-56ea-4ca8-97c2-2c6419a94dad@194.87.31.249:443?security=reality&encryption=none&pbk=Fd7z7ezRnAHM-o28IDhi5Ksl6pcRAM1F1FZiQ3GbLzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=810ac00614aac13e#14+Irancell+%7C+T.me%2FFNET00
+
+Irancell 15
+
+vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#15+Irancell+%7C+T.me%2FFNET00
+
+Irancell 16
+
+vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@208.85.18.151:443?path=%2F&security=reality&encryption=none&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&fp=firefox&type=http&sni=eset.com&sid=552e548e32bd#16+Irancell+%7C+T.me%2FFNET00
+
+Irancell 17
+
+vless://ItsLegenderyking@45.136.196.23:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers,Telegram:@LegenderY_Servers&sni=www.zula.ir&sid=502fc9be#17+Irancell+%7C+T.me%2FFNET00
+
+Irancell 18
+
+vless://3aeea1d3-0b4f-4834-a6b3-6870ea1c3da9@ya.connectme.uno:443?security=reality&encryption=none&pbk=5g4Qr3OVHuvOBxbzrEjTQ9t1T_55a6Ek2nyatbZTQU0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c52a84236e13d9ba#18+Irancell+%7C+T.me%2FFNET00
+
+Irancell 19
+
+vless://d91b21f8-56ea-4ca8-97c2-2c6419a94dad@194.87.31.249:443?security=reality&encryption=none&pbk=Fd7z7ezRnAHM-o28IDhi5Ksl6pcRAM1F1FZiQ3GbLzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=810ac00614aac13e#19+Irancell+%7C+T.me%2FFNET00
+
+Irancell 20
+
+vless://6c39add6-18b8-577c-9a9c-be2082507050@[::ffff:310d:1d9f]:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#20+Irancell+%7C+T.me%2FFNET00
+
+Irancell 21
+
+vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#21+Irancell+%7C+T.me%2FFNET00
+
+Irancell 22
+
+vless://Xv2rayNG-Xv2rayNG-Xv2rayNG-45@Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG-Xv2rayNG.vazagh.top:443?security=reality&encryption=none&pbk=thTDF1RLaxWVIji-EpaWNoRZJaF9k17fytv46-P02VE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=cae3ef#22+Irancell+%7C+T.me%2FFNET00
